@@ -7,4 +7,4 @@ Try out Yourself , Enjoy !! and leave a review or suggestions for update ! Thank
 
 Having Some Ideas for Upgrading the Game too
 so Stay Tuned for that! 🙌
-![1](Kavya2719/Pokemon/PicsArt_01-03-09.32.24.jpg)
+![Pokemon](Kavya2719/Pokemon/PicsArt_01-03-09.32.24.jpg)
