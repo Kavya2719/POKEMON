@@ -15,19 +15,21 @@ so Stay Tuned for that! 🙌
 > Gotta Catch `Em All !!
 
 ### GAME DESCRIPTION
-• This Game is based on The Very Famous Anime and Game Series namedly Pokemon where every Pokemon has its own special ability and Trainers train them to enhance their abilities.
+• This Game is based on The Very Famous Anime and Game Series namedly Pokemon where every Pokemon has its own special ability and Trainers train them to enhance their abilities and bond between them.
 
-• Tournaments are organised to see whose Pokemon and Trainer's
-Combo is Strongest.
+• And Pokemon Tournaments are organised to see which Pokemon and Trainer's
+Combo is Strongest, determined by battling their pokemons with each other.
+
+• So here's our game get started, with a Pokemon Match. Enjoy !
 
 ## Special Features Of The Game
 ### UNIQUE GAME MECHANISM
 • This Game Contains a Very Unque Game Mechnism that Me and Me Friends had invented in Our 9th class and then made Various Improvements till Now, in the Logics like for HP Calculations and Factors Deciding the Winner.
 
-• CONTAINS REAL LIFE BASED USAGE OF MOVES IN WHICH GBAs DO LAG
+• CONTAINS REAL LIFE BASED USAGE OF MOVES, IN WHICH GBAs DO LAG BEHIND
 
 ### GREAT VISUAL HP SYSTEM
 ### INCLUDES TYPE ADVANTAGE DAMGAGE
 ### GREAT MEMORY UTILISATION IN IMPLEMENTING CODE
 ### ENJOY !!
-#### PS: THIS GAME STILL DOESNOT COVER ALL OUR VERY GOOD LOGICS, THAT WE MADE IN OUR 3-4 YEARS OF JOUNERY OF POKEMON, FOR A POKEMON FIGHT 🙂 AND WE LOVE TO PLAY THE GAME WE MADE, WITH OUR MADE LOGICS. SO THIS IS THE TRAILER OF OUR LOGIC FOR YOU GUYS.
+#### PS: THIS GAME STILL DOESNOT COVER ALL OUR VERY GOOD LOGICS, THAT WE MADE IN OUR 3-4 YEARS OF JOUNERY OF POKEMON, FOR A POKEMON FIGHT 🙂 AND WE LOVED TO PLAY THE GAME WE MADE, WITH OUR MADE LOGICS. SO THIS IS THE TRAILER OF OUR LOGIC FOR YOU GUYS.
